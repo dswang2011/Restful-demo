@@ -1,6 +1,6 @@
 
 # Overview
-This is a small server and client demo. Server is written in app.py and Client is written in client.py. In addition to that, summary.py is used to get summarization of a text.
+This is a small server and client demo. Server is written in app.py and Client is written in client.py. In addition to that, summary.py is used to get summarization of a text. This is a demo where you can wrap your own model functions in the summary.py file to provide restful services. 
 
 # Lib Requirements
 pip install flask
